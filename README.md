@@ -4,7 +4,7 @@
 
 **Monday, 2/22/2021:**  
 
-Meet to introduce github, start creating branches with our prototypes
+Meet to introduce repository, start creating branches with our prototypes
 <br><br>
 **Tuesday, 2/23/2021:**  
 

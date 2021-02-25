@@ -1,6 +1,9 @@
 # SoftwareEngineeringPrototype
 
-### Nirmala Kuhl
+###Group 14:
+Huiyang Lin
+Shah Isha Redohy
+Nirmala Kuhl
 
 **Monday, 2/22/2021:**  
 

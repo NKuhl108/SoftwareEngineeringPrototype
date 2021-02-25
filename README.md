@@ -1,6 +1,6 @@
 # SoftwareEngineeringPrototype
 
-###Group 14:
+### Group 14:
 Huiyang Lin
 Shah Isha Redohy
 Nirmala Kuhl
